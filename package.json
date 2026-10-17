@@ -1,0 +1,1 @@
+{"name":"n8n-claude-flow","version":"1.0.0","type":"module","private":true,"license":"MIT","engines":{"node":">=22"},"scripts":{"build":"node scripts/build.mjs","validate":"node scripts/validate.mjs workflow.json","simulate":"node scripts/simulate.mjs fixtures/messages.json","test":"node --test"}}
